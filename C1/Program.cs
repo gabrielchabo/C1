@@ -10,7 +10,7 @@ namespace C1
     {
         static void Main(string[] args)
         {
-            //a
+            //a comment
         }
     }
 }
