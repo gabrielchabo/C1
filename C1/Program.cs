@@ -10,7 +10,6 @@ namespace C1
     {
         static void Main(string[] args)
         {
-            //not again
         }
     }
 }
